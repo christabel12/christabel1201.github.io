@@ -110,7 +110,7 @@ h1:hover {
     color: blue;
 }
 
-/*Make th <a> element's that have been visited gray */
+/*Make the <a> element's that have been visited gray */
 
 a:visited {
     color: gray;
